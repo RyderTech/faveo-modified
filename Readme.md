@@ -10,7 +10,7 @@ Before getting started, make sure you have Docker and docker-compose installed o
 
 
 ```sh
-git clone https://github.com/ladybirdweb/faveo-helpdesk-docker-v2.git
+[git clone https://github.com/RyderTech/faveo-modified.git
 ```
 ---
 
